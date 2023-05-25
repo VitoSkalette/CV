@@ -1,1 +1,1 @@
- https://VitoSkalette.github.io/cv/cv
+ https://VitoSkalette.github.io/CV/cv
